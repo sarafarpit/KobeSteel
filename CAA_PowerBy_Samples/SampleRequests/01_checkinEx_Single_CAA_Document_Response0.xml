@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<response backgroundcheckin="false" checkincomment="" cname="checkinEx" cse="CAAUPS" csever="CAAUPSAppR421HF01" deletefiles="false" ebomsynchoncheckin="false" iid="pid_of_client_app" result="success" ver="R421">
+<info>
+<reason>Save to ENOVIA successful</reason>
+<cadobjectlist>
+<cadobject busid="" busrevision="A.1.0" bustype="XCADNonPSBaseRepReference" cadid="4" ceStamp="FEC4825633030000EA002F5CCDC30100" createversion="false" cvid="BA235AF3636D4222B77AD29344BC8F9B" design="XCADNonPSBaseRepReference" designpolicy="" dirname="D:\Data\Projects\UPS\CAADocs\CAAApp Testing\SampleRequests\checkin_files" filename="CAA_Document.CAADoc" filenamepath="D:\Data\Projects\UPS\CAADocs\CAAApp Testing\SampleRequests\checkin_files\CAA_Document.CAADoc" filenamewithpath="D:\Data\Projects\UPS\CAADocs\CAAApp Testing\SampleRequests\checkin_files\CAA_Document.CAADoc" hashcode="08D3AD0A30DC83BE3214A9732D735B77" hasuuidconflict="false" islatestrevision="true" islocked="FALSE" lid="" locker="" modified="" mx_type="XCADNonPSBaseRepReference" mxfilename="CAA_Document.CAADoc" mxtype="XCADNonPSBaseRepReference" mxversion="A.1.0" name="xcadrep-87861715-00000001" objectcreated="1546584298" objectmodified="1546584298" oid="BA235AF3636D4222B77AD29344BC8F9B" organization="MyCompany" owner="Ajay KALE" parentid="" phid="BA235AF3636D4222B77AD29344BC8F9B" project="3DS Collab Space" selected="true" state="IN_WORK" status="EXISTS" store="" targetrev="next" title="CAA Sample Non-PS Document" type="caadocument" uuidconflict="false" versionpolicy=""/>
+</cadobjectlist>
+<relationshiplist/>
+</info>
+</response>

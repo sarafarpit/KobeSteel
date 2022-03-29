@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<response cname="checkoutEx" cse="CAAUPS" csever="CAAUPSAppR421HF01" iid="pid_of_client_app" mode="download" result="success" ver="R421">
+<cadobjectlist>
+<cadobject cadid="0" dirname="D:\Data\Projects\UPS\CAADocs\CAAApp Testing\SampleRequests\checkout_files" download="true" filename="CAA_Document_Parent.CAADoc" hashcode="08D3AD0A30DC83BE3214A9732D735B77" mxdirname="d:\data\projects\ups\caadocs\caaapp testing\samplerequests\checkout_files" mxfilename="" mxtype="XCADNonPSBaseRepReference" oid="5A62287E790749B7AB1877B9C5152EEE" phid="5A62287E790749B7AB1877B9C5152EEE" type="caadocument"/><cadobject cadid="1" dirname="D:\Data\Projects\UPS\CAADocs\CAAApp Testing\SampleRequests\checkout_files" download="true" filename="CAA_Document_Child_PrimaryDependency.CAADoc" hashcode="08D3AD0A30DC83BE3214A9732D735B77" mxdirname="d:\data\projects\ups\caadocs\caaapp testing\samplerequests\checkout_files" mxfilename="" mxtype="XCADNonPSBaseRepReference" oid="F95B56493E5C4F6282F5EE64220593D8" phid="F95B56493E5C4F6282F5EE64220593D8" type="caadocument"/></cadobjectlist>
+</response>

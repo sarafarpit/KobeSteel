@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><command backgroundcheckin="false" cname="checkinEx" createversion="false" cse="CATIAV5UPS" csever="CATIAV5R27SP3HF0" deletefiles="false" focusbrowser="false" iid="d43dc648_2138_5959e745_15" maintainlock="false" overwriteobject="true" synchronous="false" ver="R419">
+<relationshiplist>
+<relationship cadrelationship="ViewableOf" mustinstructure="true" rid="6" structureview="none" topnode="dpt"/>
+<relationship cadrelationship="assemblyComponent" mustinstructure="true" mxid="" reluuid="LIDV5:Instance:d43dc648_2138_595b0e3e_471" rid="7" structureview="none" topnode="dpt"><attribute><name>relativeXform</name><value>1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1</value></attribute><attribute><name>componentID</name><value>Part2.1</value></attribute><attribute><name>UUID</name><value>IDV1:d43dc648_2138_595b0e3e_471</value></attribute>
+</relationship>
+<relationship cadrelationship="DerivedOutputOf" mustinstructure="true" rid="4" structureview="none" topnode="dpt"/></relationshiplist>
+<cadobjectlist>
+<cadobject busname="Drw_Product101" busrevision="A.1.0" bustype="VPMReference" cadid="0" createversion="true" dirname="C:\protocolanalyser\cadfiles\" filename="Drw_Product101.CATProduct" mx_type="VPMReference" name="Drw_Product101" parentid="" selected="true" targetrev="Next" title="Drw_Product101" type="assembly" uuid="d43dc648_2138_595b0ddb_336" uuidconflict="false" versionpublished="A.1.0"><attribute><name>checkinaccess</name><value>true</value></attribute><attribute><name>autorecognized</name><value>false</value></attribute><attribute><name>filemodified</name><value>false</value></attribute>
+</cadobject>
+<cadobject busname="Drw_Part101" busrevision="A.1.0" bustype="VPMReference" cadid="1" createversion="true" dirname="C:\protocolanalyser\cadfiles\" filename="Drw_Part101.CATPart" mx_type="VPMReference" name="Drw_Part101" parentid="" selected="true" targetrev="Next" title="Drw_Part101" type="component" uuid="d43dc648_2138_595b0e1d_3c6" uuidconflict="false" versionpublished="A.1.0"><attribute><name>checkinaccess</name><value>true</value></attribute><attribute><name>autorecognized</name><value>false</value></attribute><attribute><name>filemodified</name><value>false</value></attribute>
+</cadobject>
+<cadobject busname="Drw_Part101.CATPart" cadid="5" dirname="C:\protocolanalyser\cadfiles\" filename="Drw_Part101.CATPart.cgr" name="Drw_Part101.CATPart" parentid="1" selected="true" targetrev="" type="cgrOutput"/>
+<cadobject busname="Drawing101" busrevision="A.1.0" bustype="Drawing" cadid="2" chgid="" createversion="true" dirname="C:\protocolanalyser\cadfiles\" filename="Drawing101.CATDrawing" mx_type="Drawing" name="Drawing101" parentid="" selected="true" targetrev="Next" title="Drawing101" type="drawing" uuid="d43dc648_2138_595b0d59_29b" uuidconflict="false" versionpublished="A.1.0"><attribute><name>checkinaccess</name><value>true</value></attribute><attribute><name>autorecognized</name><value>false</value></attribute><attribute><name>filemodified</name><value>false</value></attribute>
+</cadobject>
+<cadobject busname="Drawing101.CATDrawing" cadid="3" dirname="C:\protocolanalyser\cadfiles\" filename="Drawing101.CATDrawing.svg" name="Drawing101.CATDrawing" parentid="2" selected="true" targetrev="" type="svgOutput"/>
+</cadobjectlist>
+<structure>
+<family/><active><cadobject cadid="1" firstentry="true"><cadobject cadid="5" firstentry="true"><relationship rid="6"/></cadobject></cadobject><cadobject cadid="0" firstentry="true"><cadobject cadid="1"><relationship rid="7"/></cadobject></cadobject><cadobject cadid="2" firstentry="true"><cadobject cadid="3" firstentry="true"><relationship rid="4"/></cadobject></cadobject></active>
+</structure>
+</command>

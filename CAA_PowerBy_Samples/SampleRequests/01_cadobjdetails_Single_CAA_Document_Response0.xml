@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<response canresolveuuidconflict="false" cname="cadobjdetails" cse="CAAUPS" csever="CAAUPSAppR421HF01" iid="pid_of_client_app" result="success" transactionuid="Transaction_10" ver="R421">
+<info>
+<cadobjectlist>
+<cadobject autorecognized="false" busname="xcadrep-87861715-00000001" busrevision="A.1.0" bustype="XCADNonPSBaseRepReference" cadid="0" cadorigin="[CAAUPSAPP]" cadtype="caadocument" ceStamp="FEC4825633030000EA002F5CCDC30100" checkinaccess="true" connectedfolder="" design="XCADNonPSBaseRepReference" filemodified="" hashcode="08D3AD0A30DC83BE3214A9732D735B77" islatestrevision="true" islocked="FALSE" ismodifiedobsolete="" localstatus="EXISTS" lockedby="" modified="" mxversion="A.1.0" name="xcadrep-87861715-00000001" objectcreated="1546584298" objectmodified="1546584298" oid="BA235AF3636D4222B77AD29344BC8F9B" organization="MyCompany" project="3DS Collab Space" revision="A.1" selected="" serverstatus="EXISTS" status="EXISTS" targetrev="A.1" title="CAA Sample Non-PS Document" uuid="UUID_OF_Client_File_CAA_Document.CAADoc" uuidconflict="">
+<revisioninfolist><revisioninfo currentversion="A.1" label="B.1" lockedby="" lockstatus="unlocked" nextversion="B.1.0" overwriteaccess="true" revision="Next" revisionaccess="true" versionaccess="true"/><revisioninfo copyaccess="true" currentversion="A.1.0" label="A.1" lockedby="" lockstatus="unlocked" nextversion="A.1.0" overwriteaccess="true" revision="A.1" revisionaccess="true" versionaccess="true"/></revisioninfolist><Name>xcadrep-87861715-00000001</Name><Status>EXISTS</Status><Type>XCADNonPSBaseRepReference</Type><State>IN_WORK</State><Title>CAA Sample Non-PS Document</Title><Owner>Ajay KALE</Owner><Description/><Rev>A.1</Rev>
+</cadobject>
+</cadobjectlist>
+</info>
+</response>

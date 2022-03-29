@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<response cname="checkoutEx" cse="CAAUPS" csever="CAAUPSAppR421HF01" expandlevel="all" iid="pid_of_client_app" result="success" ver="R421">
+<info>
+<relationshiplist/>
+<cadobjectlist>
+<cadobject busName="xcadrep-87861715-00000001" busRevision="A.1.0" busid="BA235AF3636D4222B77AD29344BC8F9B" bustype="XCADNonPSBaseRepReference" cadid="BA235AF3636D4222B77AD29344BC8F9B" cadorigin="[CAAUPSAPP]" ceStamp="FEC4825633030000EA002F5CCDC30100" clonedfrom="" description="" design="XCADNonPSBaseRepReference" dirname="D:\Data\Projects\UPS\CAADocs\CAAApp Testing\SampleRequests\checkout_files" download="true" fileSource="designtool" filedate="" filemodified="" filename="CAA_Document.CAADoc" formatname="" hashcode="08D3AD0A30DC83BE3214A9732D735B77" isdownloadable="true" islatestrevision="true" islatestrevlockable="true" islockable="" islocked="FALSE" latestversion="A.1.0" lid="BA235AF3636D4222B77AD29344BC8F9B" load="" localcheckout="false" lock="FALSE" locker="" majorid="BA235AF3636D4222B77AD29344BC8F9B" modificationstatus="existing" modifiedcadattributes="" mxtype="XCADNonPSBaseRepReference" mxversion="A.1.0" name="xcadrep-87861715-00000001" objectcreated="1546584298" objectmodified="1546584298" oid="BA235AF3636D4222B77AD29344BC8F9B" organization="MyCompany" parentid="" phid="BA235AF3636D4222B77AD29344BC8F9B" precheckouteval="" project="3DS Collab Space" renamedfrom="" selected="true" status="EXISTS" targetfilename="" title="CAA Sample Non-PS Document" type="caadocument" uuid="UUID_OF_Client_File_CAA_Document.CAADoc" wsversion="">
+<Description/><Type><![CDATA[XCADNonPSBaseRepReference]]></Type><Lock><![CDATA[FALSE]]></Lock><Name><![CDATA[xcadrep-87861715-00000001]]></Name><Project><![CDATA[3DS Collab Space]]></Project><Rev><![CDATA[A.1]]></Rev><Title><![CDATA[CAA Sample Non-PS Document]]></Title><preview/><Ver><![CDATA[A.1.0]]></Ver><LockedBy/><Organization><![CDATA[MyCompany]]></Organization><State><![CDATA[IN_WORK]]></State><Owner><![CDATA[Ajay KALE]]></Owner><attribute type="string"><name>sys:Revision</name><value><![CDATA[A.1]]></value></attribute><attribute type="string"><name>Title</name><value><![CDATA[CAA Sample Non-PS Document]]></value></attribute>
+</cadobject>
+</cadobjectlist>
+<structure>
+<cadobject cadid="BA235AF3636D4222B77AD29344BC8F9B"/>
+</structure>
+</info>
+</response>
+
