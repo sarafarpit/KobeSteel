@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<command addn='abc' cname='getcastransientinfo' cse='CAAUPS' csever='R423' iid='556' loglevel='4' ver='R424'><serviceurl><![CDATA[https://pu2vwkobesteel1.dsone.3ds.com/3ddashboard/?addinmode=solidworks&lockedapp=true&add_taxonomies_in_select_clause=true#app:X3DSEAR_AP/content:x3dPlatformId=__TENANT__&search=true&addinHideOpenInDashboard]]></serviceurl></command>
+
